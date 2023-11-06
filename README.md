@@ -1,5 +1,5 @@
 - Student Name: [Ziyi Huang]
-- Student CIS ID: [001046738]
+- Student CIS ID: [kxrp29]
 
 For this coursework we want to create a very simple C program that takes a number as an input and returns the perimeter of a sequence of squares.
 
